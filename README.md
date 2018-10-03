@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 03 and why they'll be important to you as a Data Scientist.
+This lesson summarizes the topics we'll be covering in section 03 and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -11,7 +11,7 @@ You will be able to:
 
 ## Working with Pandas
 
-After a brief introduction to the most popular data science libraries in Python, section 03 takes you deeper into imporing and accessing data using the two key Pandas data structures - Series Aand DataFrames.
+After a brief introduction to the most popular data science libraries in Python, section 03 takes you deeper into importing and accessing data using the two key Pandas data structures - Series Aand DataFrames.
 
 ## Summary Stats
 
@@ -19,7 +19,7 @@ We then look at some of the methods built right into Pandas for generating descr
 
 ## Customizing Visualizations
 
-We then look at how you can start to customize your visualizations in Matplotlin, and look at the data visualization capabilities exposed directly within Pandas for quick and efficient plotting.
+We then look at how you can start to customize your visualizations in Matplotlib, and look at the data visualization capabilities exposed directly within Pandas for quick and efficient plotting.
 
 ## Welcome to Kaggle
 
